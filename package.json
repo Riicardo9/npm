@@ -1,0 +1,24 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riicardo9/npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Riicardo9/npm/issues"
+  },
+  "homepage": "https://github.com/Riicardo9/npm#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.1",
+    "jest": "^28.1.0"
+  }
+}
